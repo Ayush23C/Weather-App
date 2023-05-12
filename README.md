@@ -18,5 +18,7 @@ samples, guidance on mobile development, and a full API reference.
 ## Contributors
 
 Ayush Chugwani
+
 Anuj Tripathi
+
 Abhinav Bhargava
